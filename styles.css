@@ -1,0 +1,7 @@
+h1{
+    display: inline;
+}
+
+td, table{
+    border: solid black 2px;
+}
